@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <title>Par mums</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>LearTrack</h1>
+    <nav>
+        <ul class="nav">
+            <li><a href="index.html">Sākums</a></li>
+            <li><a href="about.html">Par mums</a></li>
+            <li><a href="services.html">Pakalpojumi</a></li>
+            <li><a href="gallery.html">Galerija</a></li>
+            <li><a href="contact.html">Kontakti</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Par projektu</h2>
+        <p>
+            Šī mājaslapa ir izstrādāta kā mācību projekts HTML un CSS apguvei.
+            Projekta mērķis ir izveidot semantiski pareizu un responsīvu tīmekļa lapu.
+        </p>
+
+        <p>
+            Darbā izmantoti semantiskie HTML elementi, Flexbox un Grid izkārtojumi,
+            kā arī vienkārša JavaScript funkcionalitāte.
+        </p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2025 Mana Mājaslapa</p>
+</footer>
+
+</body>
+</html>

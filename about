@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <title>Pakalpojumi</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Mana Mājaslapa</h1>
+    <nav>
+        <ul class="nav">
+            <li><a href="index.html">Sākums</a></li>
+            <li><a href="about.html">Par mums</a></li>
+            <li><a href="services.html">Pakalpojumi</a></li>
+            <li><a href="gallery.html">Galerija</a></li>
+            <li><a href="contact.html">Kontakti</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main class="grid">
+    <section class="card">
+        <h3>HTML struktūra</h3>
+        <p>Semantisku elementu izmantošana</p>
+    </section>
+
+    <section class="card">
+        <h3>CSS dizains</h3>
+        <p>Flexbox, Grid, krāsas, fonti</p>
+    </section>
+
+    <section class="card">
+        <h3>Responsivitāte</h3>
+        <p>Pielāgošana mobilajām ierīcēm</p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2025 Mana Mājaslapa</p>
+</footer>
+
+</body>
+</html>

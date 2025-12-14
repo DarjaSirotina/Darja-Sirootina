@@ -1,0 +1,7 @@
+function changeImage() {
+    const img = document.getElementById("mainImage");
+    if (img.src.includes("img1")) {
+        img.src = "https://cdn.prod.website-files.com/67db22dd1e51de2e91403865/67db22dd1e51de2e91404077_Understanding-top-tasks.png";
+    } else {
+        img.src = "https://www.prosoftly.com/wp-content/uploads/2020/01/task.png";
+ 
